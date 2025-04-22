@@ -18,6 +18,5 @@ public class MainThread {
         } catch (InterruptedException e) {
             System.out.println("Download interrotto ");
         }
-
     }
 }
